@@ -1,5 +1,3 @@
-[ポートフォリオ](https://portfolio.kitazawa.dev/)
-
 ## About me
 
 web アプリやネイティブアプリを中心に開発しています。
@@ -7,27 +5,29 @@ web アプリやネイティブアプリを中心に開発しています。
 デザインとフロントエンドの実装が好きです。
 最近バックエンドにも手を伸ばしています。
 
+[ポートフォリオ](https://portfolio.kitazawa.dev)
+
 ## Skills
 
 ### ⭐ お気に入り
 
-[![favorite](https://skillicons.dev/icons?i=flutter,dart,solidjs,react,ts,figma)](https://skillicons.dev)
+[![favorite](https://skillicons.dev/icons?i=flutter,dart,solidjs,react,ts,figma)](https://portfolio.kitazawa.dev/#skills)
 
 ### 🌐 Webアプリ
 
-[![web](https://skillicons.dev/icons?i=next,solidjs,react,astro,expressjs,nodejs,ts,tailwind,less)](https://skillicons.dev)
+[![web](https://skillicons.dev/icons?i=next,solidjs,react,astro,expressjs,nodejs,ts,tailwind,less)](https://portfolio.kitazawa.dev/#skills)
 
 ### 📱 ネイティブアプリ
 
-[![native app](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev)
+[![native app](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://portfolio.kitazawa.dev/#skills)
 
 ### その他
 
-[![other](https://skillicons.dev/icons?i=c,java,figma,git)](https://skillicons.dev)
+[![other](https://skillicons.dev/icons?i=c,java,figma,git)](https://portfolio.kitazawa.dev/#skills)
 
 ### 学習中
 
-[![learning](https://skillicons.dev/icons?i=tauri,rust,vue,postgresql)](https://skillicons.dev)
+[![learning](https://skillicons.dev/icons?i=tauri,rust,vue,postgresql)](https://portfolio.kitazawa.dev/#skills)
 
 ## 経歴
 
