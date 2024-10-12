@@ -7,15 +7,15 @@ web アプリやネイティブアプリを中心に開発しています。
 
 ## Skills
 
-### お気に入り
+### ⭐ お気に入り
 
 [![favorite](https://skillicons.dev/icons?i=flutter,dart,solidjs,react,ts,figma)](https://skillicons.dev)
 
-### Webアプリ
+### 🌐 Webアプリ
 
 [![web](https://skillicons.dev/icons?i=next,solidjs,react,astro,expressjs,nodejs,ts,tailwind,less)](https://skillicons.dev)
 
-### ネイティブアプリ
+### 📱 ネイティブアプリ
 
 [![native app](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev)
 
