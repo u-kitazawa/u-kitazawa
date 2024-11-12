@@ -5,7 +5,7 @@ web アプリやネイティブアプリを中心に開発しています。
 デザインとフロントエンドの実装が好きです。
 最近バックエンドにも手を伸ばしています。
 
-[ポートフォリオ](https://portfolio.kitazawa.dev)
+[kitazawa.dev](https://kitazawa.dev)
 <!--
 ## Skills
 
